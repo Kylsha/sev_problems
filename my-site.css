@@ -1,5 +1,5 @@
 ﻿.container {
-   height:70vh;
+   height:100vh;
    wight:100vw;
 }
 .shaped {
@@ -9,7 +9,7 @@
    background-size: 100% 50%;
    /*center top no-repeat */
 
-   height:70vh;
+   height:100%;
    width:40vw;
    background-size:cover;
    float:right;
