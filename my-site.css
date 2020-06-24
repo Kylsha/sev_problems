@@ -1,10 +1,15 @@
 ﻿.container {
-   height:100vh;
+   height:70vh;
    wight:100vw;
 }
 .shaped {
-   background: black url(https://i2.wp.com/fountravel.ru/wp-content/uploads/2017/04/sevastopol-sights.jpg) center top no-repeat;
-   height:100vh;
+   background: black url(https://i2.wp.com/fountravel.ru/wp-content/uploads/2017/04/sevastopol-sights.jpg) ;
+   background-repeat: no-repeat;  
+   background-position: 50% 0%;
+   background-size: 100% 50%;
+   /*center top no-repeat */
+
+   height:70vh;
    width:40vw;
    background-size:cover;
    float:right;
